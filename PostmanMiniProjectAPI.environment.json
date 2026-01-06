@@ -1,0 +1,28 @@
+{
+	"id": "e5d2933a-0dc4-4f7a-ac6d-b49cfbc2e10e",
+	"name": "PostmanMiniProjectAPI",
+	"values": [
+		{
+			"key": "baseurl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userId",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-01-06T16:53:13.950Z",
+	"_postman_exported_using": "Postman/11.79.1"
+}
